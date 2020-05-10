@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'bottle0.25'
+}
+item {
+  id: 2
+  name: 'bottle0.5'
+}
+item {
+  id: 3
+  name: 'bottle1'
+}
+item {
+  id: 4
+  name: 'bottle1.5'
+}
+item {
+  id: 5
+  name: 'bottle2'
+}
+item {
+  id: 6
+  name: 'can'
+}
